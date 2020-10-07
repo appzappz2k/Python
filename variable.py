@@ -1,2 +1,4 @@
-code = True
-print(code) 
+code = "True"
+ant = "insect"
+
+print(code+" "+ant)
